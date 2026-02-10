@@ -1,0 +1,21 @@
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.env
+
+# Database & sensitive data – NEVER upload!
+trades_history.db
+*.db
+*.sqlite3
+
+# API keys and secrets
+*.key
+*.token
+config.py
+secrets.py
