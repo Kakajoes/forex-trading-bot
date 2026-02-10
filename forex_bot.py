@@ -12,7 +12,7 @@ import sys
 import requests  # For news filter
 
 # ================= CONFIG =================
-POLYGON_KEY = "your_polygon_api_key_here"  # Polygon for data
+POLYGON_KEY = "DUk9Sl_xTjU9ImNpND519NAhcg3DUHAp"  # Polygon for data
 OANDA_TOKEN = "your_oanda_access_token_here"  # OANDA for live
 OANDA_ACCOUNT_ID = "your_oanda_account_id_here"  # e.g., 101-001-1234567-001
 OANDA_HOST = "api-fxpractice.oanda.com"  # Practice; use api-fxtrade for live
