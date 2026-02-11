@@ -17,6 +17,4 @@ Personal Python-based forex bot (EUR/USD, GBP/USD, USD/JPY focus)
 3. Backtest: `python forex_bot.py`
 4. View dashboard: `streamlit run dashboard.py`
 
-**Warning**: This is for educational/demo use. Trading involves risk — test thoroughly on demo account.
-
-Built with help from Grok – February 2026
+**Warning**: This is for educational/demo use. Trading involves risk — test thoroughly on demo account
